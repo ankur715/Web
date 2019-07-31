@@ -1,2 +1,8 @@
-# visualization
-python dash, borek
+## Visualization
+---
+Languages:
+- python
+- minimal html
+Modules:
+- dash
+- borek
