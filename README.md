@@ -2,7 +2,7 @@
 ---
 Languages:
 - python
-- minimal html  
+- html  
 
 Modules:
 - dash
