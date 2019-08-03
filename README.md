@@ -7,3 +7,5 @@ Languages:
 Modules:
 - dash
 - borek
+- vader
+- textblob
