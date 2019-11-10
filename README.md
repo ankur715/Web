@@ -9,3 +9,5 @@ Modules:
 - borek
 - vader
 - textblob
+- django
+- flask
