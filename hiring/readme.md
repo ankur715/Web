@@ -3,5 +3,5 @@
 
 
 <p align="left">
-  <img width="800" height="400" src="https://github.com/ankur715/web/blob/master/hiring/html.JPG"> 
+  <img width="1000" height="600" src="https://github.com/ankur715/web/blob/master/hiring/html.JPG"> 
 </p>
