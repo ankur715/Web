@@ -1,1 +1,3 @@
-incomplete
+- incomplete
+
+Notebook model complete
