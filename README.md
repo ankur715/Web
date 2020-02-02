@@ -12,7 +12,8 @@ Modules:
 - django
 - flask
 
----
+
 ## Projects
 ---
-sdad
+- hiring salary
+- starbucks
