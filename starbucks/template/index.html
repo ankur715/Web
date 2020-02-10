@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+  <meta charset="UTF-8">
+  <title>Starbucks Location API</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  
+</head>
+
+<body>
+ <div class="login">
+	<h1>Predict Starbucks Location</h1>
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action="{{ url_for('predict')}}"method="post">
+    	<input type="text" name="total_population" placeholder="Total Population" required="required" />
+        <input type="text" name="median_age" placeholder="Median Age" required="required" />
+		<input type="text" name="median_hh_income" placeholder="Median Income" required="required" />
+      <input type="text" name="median_rent" placeholder="Median Rent" required="required" />
+        <input type="text" name="median_home_value" placeholder="Median Home Value" required="required" />
+		<input type="text" name="percent_workers" placeholder="Percent Workers" required="required" />
+      <input type="text" name="percent_leave_7_9" placeholder="Percent Leave 7:9" required="required" />
+        <input type="text" name="perc_hs_dipl  " placeholder="Percent HS Diploma" required="required" />
+		<input type="text" name="perc_bach_deg" placeholder="Percent BS Degree" required="required" />
+      <input type="text" name="perc_masters_deg" placeholder="Percent MS Degree" required="required" />
+        <input type="text" name="perc_walk_to_work" placeholder="Percent Walk to Work" required="required" />
+		<input type="text" name="perc_car_to_work" placeholder="Percent Car to Work" required="required" />
+      <input type="text" name="perc_pub_tran" placeholder="Percent Public Transit" required="required" />
+        <input type="text" name="perc_bicycle_to_work" placeholder="Percent Bicycle to Work" required="required" />
+		<input type="text" name="perc_work_from_home" placeholder="Percent Work from Home" required="required" />
+      <input type="text" name="time_to_work" placeholder="Time to Work" required="required" />
+        <input type="text" name="tran_mean" placeholder="Transit Mean" required="required" />
+  
+        <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    </form>
+
+   <br>
+   <br>
+   {{ prediction_text }}
+
+ </div>
+
+ <!-- <div class="container">
+   <div class="scrollBar"> -->
+     <!-- <div class="slider"></div> -->
+   <!-- </div> -->
+   <!-- <div class="scroll">
+     <div class="container">
+   </div> -->
+ <!-- </div> -->
+
+
+</body>
+</html>
