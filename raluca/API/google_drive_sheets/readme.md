@@ -8,9 +8,9 @@
 – Connect to the google sheet via python code  
 
 <p align="center">
-  <img width="450" height="300" src="https://github.com/ankur715/web/blob/master/raluca/API/google_drive_sheets/Capture_API.JPG"> 
+  <img width="800" height="600" src="https://github.com/ankur715/web/blob/master/raluca/API/google_drive_sheets/Capture_API.JPG"> 
 </p>
 
 <p align="center">
-  <img width="450" height="300" src="https://github.com/ankur715/web/blob/master/raluca/API/google_drive_sheets/Capture_dashboard.JPG"> 
+  <img width="800" height="600" src="https://github.com/ankur715/web/blob/master/raluca/API/google_drive_sheets/Capture_dashboard.JPG"> 
 </p>
