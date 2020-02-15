@@ -1,2 +1,2 @@
 creds.json 
-- share sheet to the client_email ID in this json
+- share Raluca_tutorial sheet to the client_email ID in this json
