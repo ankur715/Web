@@ -3,6 +3,7 @@
 Languages:
 - python
 - html  
+- css
 
 Modules:
 - dash
@@ -18,3 +19,4 @@ Modules:
 - hiring salary
 - heart disease
 - starbucks
+- Google Sheets API
