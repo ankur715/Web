@@ -6,7 +6,7 @@ Languages:
 - css
 
 Modules:
-- (dash([https://github.com/ankur715/web/tree/master/dash]
+- (dash)[https://github.com/ankur715/web/tree/master/dash]
 - (boreh)[https://github.com/ankur715/web/tree/master/boreh]
 - (vader)[https://github.com/ankur715/web/blob/master/sentiment_analysis/textblob_vader_p1.py]
 - (textblob)[https://github.com/ankur715/web/blob/master/sentiment_analysis/textblob_vader_p1.py]
