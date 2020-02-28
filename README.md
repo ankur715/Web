@@ -7,11 +7,11 @@ Languages:
 
 Modules:
 - [dash](https://github.com/ankur715/web/tree/master/dash)
-- [boreh](https://github.com/ankur715/web/tree/master/boreh]
-- [vader](https://github.com/ankur715/web/blob/master/sentiment_analysis/textblob_vader_p1.py]
-- [textblob](https://github.com/ankur715/web/blob/master/sentiment_analysis/textblob_vader_p1.py]
-- [django](https://github.com/ankur715/web/tree/master/django]
-- [flask](https://github.com/ankur715/web/tree/master/hiring/app.py]
+- [boreh](https://github.com/ankur715/web/tree/master/boreh)
+- [vader](https://github.com/ankur715/web/blob/master/sentiment_analysis/textblob_vader_p1.py)
+- [textblob](https://github.com/ankur715/web/blob/master/sentiment_analysis/textblob_vader_p1.py)
+- [django](https://github.com/ankur715/web/tree/master/django)
+- [flask](https://github.com/ankur715/web/tree/master/hiring/app.py)
 
 
 ## Projects
