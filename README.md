@@ -18,6 +18,6 @@ Modules:
 ---
 - [Hiring Salary](https://github.com/ankur715/web/tree/master/hiring)
 - [Starbucks](https://github.com/ankur715/web/tree/master/starbucks)
-- [Tableau](HTML (https://github.com/ankur715/web/tree/master/tableau_html)
+- [Tableau HTML](https://github.com/ankur715/web/tree/master/tableau_html)
 - [Google Sheets API](https://github.com/ankur715/web/tree/master/raluca/API/google_drive_sheets)
 - [Predicting Heart Disease](https://github.com/ankur715/web/blob/master/flask/framingham_heart_flask.ipynb)
