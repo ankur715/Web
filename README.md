@@ -1,5 +1,5 @@
 ## Visualization
----
+
 Languages:
 - python
 - html  
@@ -14,8 +14,9 @@ Modules:
 - [flask](https://github.com/ankur715/web/tree/master/hiring/app.py)
 
 
-## Projects
 ---
+## Projects
+
 - [Hiring Salary](https://github.com/ankur715/web/tree/master/hiring)
 - [Starbucks](https://github.com/ankur715/web/tree/master/starbucks)
 - [Tableau HTML](https://github.com/ankur715/web/tree/master/tableau_html)
