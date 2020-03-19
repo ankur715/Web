@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="900" height="250" src="https://github.com/ankur715/web/blob/master/raluca/API/google_drive_sheets/Capture_sheets.JPG"> 
+  <img width="1000" height="250" src="https://github.com/ankur715/web/blob/master/raluca/API/google_drive_sheets/Capture_sheets.JPG"> 
 </p>
 
 
