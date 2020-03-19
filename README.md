@@ -33,8 +33,8 @@ Modules:
 </p>
 
 - [Google Sheets API](https://github.com/ankur715/web/tree/master/raluca/API/google_drive_sheets)
-<p align="left">
+[<p align="left">
   <img width="900" height="250" src="https://github.com/ankur715/Web/blob/master/raluca/API/google_drive_sheets/Capture_sheets.JPG"> 
-</p>
+</p>](https://github.com/ankur715/Web/tree/master/raluca/API/google_drive_sheets)
 
 - [Predicting Heart Disease](https://github.com/ankur715/web/blob/master/flask/framingham_heart_flask.ipynb)
