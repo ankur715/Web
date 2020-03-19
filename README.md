@@ -19,22 +19,22 @@ Modules:
 
 - [Starbucks](https://github.com/ankur715/web/tree/master/starbucks)
 <p align="left">
-  <img width="600" height="250" src="https://github.com/ankur715/Web/blob/master/starbucks/Capture.JPG"> 
+  <img width="800" height="400" src="https://github.com/ankur715/Web/blob/master/starbucks/Capture.JPG"> 
 </p>
 
 - [Hiring Salary](https://github.com/ankur715/web/tree/master/hiring)
 <p align="left">
-  <img width="600" height="250" src="https://github.com/ankur715/Web/blob/master/hiring/html.JPG"> 
+  <img width="800" height="400" src="https://github.com/ankur715/Web/blob/master/hiring/html.JPG"> 
 </p>
 
 - [Tableau HTML](https://github.com/ankur715/web/tree/master/tableau_html)
 <p align="left">
-  <img width="600" height="250" src="https://github.com/ankur715/Web/blob/master/tableau_html/rewards.JPG"> 
+  <img width="800" height="400" src="https://github.com/ankur715/Web/blob/master/tableau_html/rewards.JPG"> 
 </p>
 
 - [Google Sheets API](https://github.com/ankur715/web/tree/master/raluca/API/google_drive_sheets)
 <p align="left">
-  <img width="600" height="250" src="https://github.com/ankur715/Web/blob/master/raluca/API/google_drive_sheets/Capture_sheets.JPG"> 
+  <img width="800" height="300" src="https://github.com/ankur715/Web/blob/master/raluca/API/google_drive_sheets/Capture_sheets.JPG"> 
 </p>
 
 - [Predicting Heart Disease](https://github.com/ankur715/web/blob/master/flask/framingham_heart_flask.ipynb)
