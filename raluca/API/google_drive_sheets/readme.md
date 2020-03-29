@@ -1,10 +1,15 @@
+### Google Sheets API + Python:
+<p align="left">
+  <img width="800" height="400" src="https://i.ytimg.com/vi/cnPlKLEGR7E/maxresdefault.jpg">
+</p>
+
+---
+
 <p align="center">
   <img width="1000" height="200" src="https://github.com/ankur715/web/blob/master/raluca/API/google_drive_sheets/Capture_sheets.JPG"> 
 </p>
 
-
----
-
+### _STEPS:_
 – Create a project on google cloud console  
 – Activate the google drive API  
 – Create credentials for the google drive API  
